@@ -1,0 +1,34 @@
+[[OpenSWPC]]
+arch = "aarch64"
+git-tree-sha1 = "094e27e89ce29bd4ac038b1b4337a535a41f370a"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "macos"
+
+    [[OpenSWPC.download]]
+    sha256 = "00a943f4d4655e84ad2210de71feee5b577487142a5c0fccd0653050da7c2c57"
+    url = "https://github.com/local/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+[[OpenSWPC]]
+arch = "x86_64"
+git-tree-sha1 = "0c20dd18eb436e44109569ff6eed11518a7e5f29"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "macos"
+
+    [[OpenSWPC.download]]
+    sha256 = "ed7dbc2b525cacfc7422a5ca3bd39b3a58ae53932a3d00018af3aed61ea9dd42"
+    url = "https://github.com/local/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+[[OpenSWPC]]
+arch = "x86_64"
+git-tree-sha1 = "b74ab1bb9951a144484f9b43654cf469614bef12"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[OpenSWPC.download]]
+    sha256 = "c6ed2e56e63cabc2068f97a02c7c19d0307f1476c2ca8f85f41dd435a29d5eef"
+    url = "https://github.com/local/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
