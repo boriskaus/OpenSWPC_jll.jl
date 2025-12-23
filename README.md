@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `OpenSWPC_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/boriskaus/OpenSWPC (revision: `fd908eec94f3f2be789a3ed4165160180d876289`)
+* git repository: https://github.com/boriskaus/OpenSWPC (revision: `4272f2a7abb36912f05ae9cfe4b9269a62a5751a`)
 
 ## Platforms
 
