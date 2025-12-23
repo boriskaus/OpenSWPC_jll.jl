@@ -1,28 +1,28 @@
 [[OpenSWPC]]
-arch = "x86_64"
-git-tree-sha1 = "0c20dd18eb436e44109569ff6eed11518a7e5f29"
-lazy = true
-libgfortran_version = "5.0.0"
-mpi = "mpich"
-os = "macos"
-
-    [[OpenSWPC.download]]
-    sha256 = "ed7dbc2b525cacfc7422a5ca3bd39b3a58ae53932a3d00018af3aed61ea9dd42"
-    url = "https://github.com/local/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
-[[OpenSWPC]]
 arch = "aarch64"
-git-tree-sha1 = "094e27e89ce29bd4ac038b1b4337a535a41f370a"
+git-tree-sha1 = "c3185629ad1a939d2c24faa63e19137132eaeaa4"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[OpenSWPC.download]]
-    sha256 = "00a943f4d4655e84ad2210de71feee5b577487142a5c0fccd0653050da7c2c57"
+    sha256 = "c8555ccaa55ba28683441ca7260ad3d719e836ea78b09e2fe0e8a408d18a7a3b"
     url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[OpenSWPC]]
 arch = "x86_64"
-git-tree-sha1 = "b74ab1bb9951a144484f9b43654cf469614bef12"
+git-tree-sha1 = "510ef52a3b9dc2b13e0bd2314fab28e703b10751"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "macos"
+
+    [[OpenSWPC.download]]
+    sha256 = "4daa6883f41b7e0b9fc0012cf682993032a6f67eb1a976bc31b5a4c60fd229c7"
+    url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+[[OpenSWPC]]
+arch = "x86_64"
+git-tree-sha1 = "231f8379fb1af3e29d3ef6a74a312ba3d1209c91"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -30,5 +30,5 @@ mpi = "mpich"
 os = "linux"
 
     [[OpenSWPC.download]]
-    sha256 = "c6ed2e56e63cabc2068f97a02c7c19d0307f1476c2ca8f85f41dd435a29d5eef"
+    sha256 = "56b7e28729bb297acd033c92172304b98a0635400e7cedec0a7ecd2f58dc75f7"
     url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
