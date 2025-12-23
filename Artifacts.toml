@@ -32,3 +32,14 @@ os = "linux"
     [[OpenSWPC.download]]
     sha256 = "56b7e28729bb297acd033c92172304b98a0635400e7cedec0a7ecd2f58dc75f7"
     url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+[[OpenSWPC]]
+arch = "x86_64"
+git-tree-sha1 = "8adb3f3c93764a1427d89b3ebec6b2a03d5c3965"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[OpenSWPC.download]]
+    sha256 = "677a3c8f4b973d4005aa092a63ad7877918bda7c8cebf1e14b78c588b52a5cce"
+    url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.x86_64-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
