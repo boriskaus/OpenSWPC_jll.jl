@@ -1,45 +1,41 @@
 [[OpenSWPC]]
 arch = "aarch64"
-git-tree-sha1 = "4d2609ff060a60e829e45d250abf3ba3866003d8"
-lazy = true
+git-tree-sha1 = "69cdd7648f65dd4dc4fb509073ad2c97a81b24df"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[OpenSWPC.download]]
-    sha256 = "ac7f6cd404d0f75512a0dbd7493c68583ffe5923a70f3c70ff5b40be56cad53c"
-    url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "0bb55269ee9560c1b433760354659f5349a11e01d84de1ddc618bf1208ef3ff5"
+    url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v26.9.1+0/OpenSWPC.v26.9.1.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[OpenSWPC]]
 arch = "x86_64"
-git-tree-sha1 = "3308dc1a67be4def76cdbd248066356db03a9a22"
-lazy = true
+git-tree-sha1 = "cbf937c51657da804576fe1ab61a8efd47a79de7"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[OpenSWPC.download]]
-    sha256 = "d3d29df85f250d9b06a4787347ba255588fd396d4394e618bfe1ee95412cbcbd"
-    url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "ec09a783f44a62c6e8d9539ea05c282563e399811b5c44de4fa2a189a10b2b02"
+    url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v26.9.1+0/OpenSWPC.v26.9.1.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[OpenSWPC]]
 arch = "x86_64"
-git-tree-sha1 = "b573f64ed684dfccabe6ffa743778b1d0a2d5a42"
-lazy = true
+git-tree-sha1 = "5525f8d4fffe7e89b183c61939bf3352591ac559"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "linux"
 
     [[OpenSWPC.download]]
-    sha256 = "ea1e9734918b8aa6ad8266813b491e146ef28605fa88adc1817fb4422976b33f"
-    url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "947708c8270b8fad6b808ae837e501321fb3ebdfe809e7637cf4786cb5623cf2"
+    url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v26.9.1+0/OpenSWPC.v26.9.1.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[OpenSWPC]]
 arch = "x86_64"
-git-tree-sha1 = "093dfbf1716d30736a398181f40c0d87f1e0edb8"
-lazy = true
+git-tree-sha1 = "eaed32bb030a836a0ec9417dc3add7ad3d092b83"
 libgfortran_version = "5.0.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[OpenSWPC.download]]
-    sha256 = "1b381aa6dfc73951f84577bc5532ebbcbb8cd9155929b897f90513e6900975e7"
-    url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v25.5.2+0/OpenSWPC.v25.5.2.x86_64-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
+    sha256 = "130bca29b776c6289cdec1ab3bf18ab86519efe4a5b70e32e9e00cdf5815058b"
+    url = "https://github.com/boriskaus/OpenSWPC_jll.jl/releases/download/OpenSWPC-v26.9.1+0/OpenSWPC.v26.9.1.x86_64-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
